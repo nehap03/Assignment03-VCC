@@ -42,7 +42,7 @@ import psutil
 import os
 from datetime import datetime
 
-app = FastAPI(title="Assignment 03 - Neha Cloud Demo ")
+app = FastAPI(title="Assign 03 - Neha Cloud Demo")
 
 def get_environment():
     try:
