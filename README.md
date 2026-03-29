@@ -1,7 +1,7 @@
 # Assignment 3 — Adaptive Cloud Bursting: On-Premise VM Overflow to AWS
 
 **Course:** CSL7510 — Virtualization and Cloud Computing  
-**Student:** Neha Prasad (M25AI2056)  
+**Student:** Neha Prasad M25AI2056  
 **Instructor:** Prof. Sumit Kalra  
 
 ## Overview
