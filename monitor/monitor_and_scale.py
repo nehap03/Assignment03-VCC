@@ -26,10 +26,10 @@ from datetime import datetime
 
 # AWS Settings
 AWS_REGION = "eu-north-1"
-AMI_ID = "ami-0f5caa1cf4417e51b"           # Amazon Linux 2023 (same as Assignment 2)
+AMI_ID = "ami-0f77cdd9f61b7735e"           # Amazon Linux 2023 (same as Assignment 2)
 INSTANCE_TYPE = "t3.micro"                   # Free-tier eligible
 KEY_PAIR_NAME = "my-asg-keypair"             # Your existing key pair from Assignment 2
-SECURITY_GROUP_ID = "sg-0770a5b0dff337cf7"   # WebServer-SG from Assignment 2
+SECURITY_GROUP_ID = "sg-0ddf5f6fd5d4433ee2"   # WebServer-SG from Assignment 2
 INSTANCE_NAME = "AutoScale-CloudBurst"       # Tag for the launched instance
 
 # Monitoring Settings
